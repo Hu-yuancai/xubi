@@ -1,5 +1,5 @@
 # 叙笔 Xubi — 大学生全栈式学术创作智能伙伴
-介绍网址：https://wb5hveo7xktho.ok.kimi.link
+> **介绍网址：https://wb5hveo7xktho.ok.kimi.link**
 
 > **叙写每一笔，成章自有时**
 
